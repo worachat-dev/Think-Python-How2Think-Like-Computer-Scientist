@@ -90,16 +90,15 @@ For any inquiries or issues, please contact me.!
 - **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024* 
 [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
 
-## Contributing
-
-Feel free to contribute to this repository by submitting issues or pull requests. Your feedback and contributions are welcome!
-
-
 ## License
 
 The content in this repository is based on the original material and is licensed under the [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/).
 
-We hope this repository provides a valuable resource for learning Python programming using Jupyter notebooks!
+## Contributing
+
+Feel free to contribute to this repository by submitting issues or pull requests. Your feedback and contributions are welcome!
+We hope this repository provides a valuable resource for learning Python programming using Jupyter notebooks! 
+
 ---
 
 
