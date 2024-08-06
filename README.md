@@ -1,80 +1,96 @@
-Think Python: How to Think Like a Computer Scientist (Jupyter Notebook Edition)
-Source Material:
+# Think Python: Jupyter Notebook Edition
 
-Think Python: How to Think Like a Computer Scientist, 2nd Edition, Version 2.2.23 by Allen Downey (Copyright © 2015)
-PDF Version: http://greenteapress.com/thinkpython2/thinkpython2.pdf
-License:
+## Source Material
 
-This material is based on the source material and uses content under the Creative Commons Attribution-NonCommercial 3.0 Unported License.  You can view a copy of this license here: http://creativecommons.org/licenses/by-nc/3.0/
+This repository contains Jupyter Notebook versions of the textbook:
 
-About the Book
+**Think Python: How to Think Like a Computer Scientist, 2nd Edition, Version 2.2.23**  
+by Allen Downey (Copyright © 2015)  
+[PDF Version](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 
-Think Python is a comprehensive introduction to programming using the Python language. Designed for beginners, it gradually introduces complex topics like recursion and object-oriented programming in a digestible manner.
+## License
 
-Employed in numerous universities, this book has proven effective in teaching programming fundamentals.
+The content in this repository is based on the original material and is licensed under the [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/).
 
-Table of Contents
+## About the Book
 
-Part I: Fundamentals
+"Think Python" is a comprehensive introduction to programming using the Python language. It is designed for beginners and gradually introduces more complex topics such as recursion and object-oriented programming in a digestible manner. The book is widely used in universities and is effective for teaching programming fundamentals.
 
-Chapter 1: The Way of the Program (CH1_intro_programming.ipynb)
-Chapter 2: Variables, Expressions, and Statements (CH2_variables_expressions_statements.ipynb)
-Chapter 3: Functions (CH3_functions.ipynb)
-Chapter 4: Case Study: Interface Design (Turtle Graphics) (CH4_turtle_case_study.ipynb)
-Chapter 5: Conditionals and Recursion (CH5_conditionals_recursion.ipynb)
-Chapter 6: Fruitful Functions (CH6_fruitful_functions.ipynb)
-Chapter 7: Iteration (CH7_iteration.ipynb)
-Chapter 8: Strings (CH8_strings.ipynb)
-Chapter 9: Case Study: Word Play (Note: Notebook might be missing)
-Part II: Data Structures
+## Table of Contents
 
-Chapter 10: Lists (CH10_lists.ipynb)
-Chapter 11: Dictionaries (CH11_dictionaries.ipynb)
-Chapter 12: Tuples (CH12_tuples.ipynb)
-Chapter 13: Case Study: Data Structure Selection (CH13_data_structure_selection_case_study.ipynb)
-Part III: Object-Oriented Programming
+### Part I: Fundamentals
+- **Chapter 1:** The Way of the Program ([CH1_intro_programming.ipynb](CH1_intro_programming.ipynb))
+- **Chapter 2:** Variables, Expressions, and Statements ([CH2_variables_expressions_statements.ipynb](CH2_variables_expressions_statements.ipynb))
+- **Chapter 3:** Functions ([CH3_functions.ipynb](CH3_functions.ipynb))
+- **Chapter 4:** Case Study: Interface Design (Turtle Graphics) ([CH4_turtle_case_study.ipynb](CH4_turtle_case_study.ipynb))
+- **Chapter 5:** Conditionals and Recursion ([CH5_conditionals_recursion.ipynb](CH5_conditionals_recursion.ipynb))
+- **Chapter 6:** Fruitful Functions ([CH6_fruitful_functions.ipynb](CH6_fruitful_functions.ipynb))
+- **Chapter 7:** Iteration ([CH7_iteration.ipynb](CH7_iteration.ipynb))
+- **Chapter 8:** Strings ([CH8_strings.ipynb](CH8_strings.ipynb))
+- **Chapter 9:** Case Study: Word Play (Note: Notebook might be missing)
 
-Chapter 14: Files (CH14_files.ipynb)
-Chapter 15: Classes and Objects (CH15_classes_and_objects.ipynb)
-Chapter 16: Classes and Functions (CH16_classes_and_functions.ipynb)
-Chapter 17: Classes and Methods (CH17_classes_and_methods.ipynb)
-Chapter 18: Inheritance (CH18_inheritance.ipynb)
-Appendixes
+### Part II: Data Structures
+- **Chapter 10:** Lists ([CH10_lists.ipynb](CH10_lists.ipynb))
+- **Chapter 11:** Dictionaries ([CH11_dictionaries.ipynb](CH11_dictionaries.ipynb))
+- **Chapter 12:** Tuples ([CH12_tuples.ipynb](CH12_tuples.ipynb))
+- **Chapter 13:** Case Study: Data Structure Selection ([CH13_data_structure_selection_case_study.ipynb](CH13_data_structure_selection_case_study.ipynb))
 
-Appendix A: Debugging (Note: Might be included in relevant chapters)
-Appendix B: Analysis of Algorithms (Note: Might be included in relevant chapters)
-Additional Materials
+### Part III: Object-Oriented Programming
+- **Chapter 14:** Files ([CH14_files.ipynb](CH14_files.ipynb))
+- **Chapter 15:** Classes and Objects ([CH15_classes_and_objects.ipynb](CH15_classes_and_objects.ipynb))
+- **Chapter 16:** Classes and Functions ([CH16_classes_and_functions.ipynb](CH16_classes_and_functions.ipynb))
+- **Chapter 17:** Classes and Methods ([CH17_classes_and_methods.ipynb](CH17_classes_and_methods.ipynb))
+- **Chapter 18:** Inheritance ([CH18_inheritance.ipynb](CH18_inheritance.ipynb))
 
-Chapter 19: Extra Python Goodies (CH19_extra_python_goodies.ipynb)
-Note: The additional materials seem to be duplicates of the chapters in the main content. It might be helpful to clarify their purpose or remove them if unnecessary.
+### Appendixes
+- **Appendix A:** Debugging (Note: Might be included in relevant chapters)
+- **Appendix B:** Analysis of Algorithms (Note: Might be included in relevant chapters)
 
-Getting Started
+### Additional Materials
+- **Chapter 19:** Extra Python Goodies ([CH19_extra_python_goodies.ipynb](CH19_extra_python_goodies.ipynb))  
+  Note: The additional materials seem to be duplicates of the chapters in the main content. Clarification or removal may be necessary.
 
-Clone this repository:
+## Getting Started
 
-Bash
-git clone https://github.com/your-username/think-python-jupyter-notebooks.git
-ใช้โค้ดอย่างระมัดระวัง
+To get started with the Jupyter Notebooks, follow these steps:
 
-Replace your-username with your actual GitHub username.
+1. **Clone this repository:**
 
-Install required libraries:
+    ```bash
+    git clone https://github.com/your-username/think-python-jupyter-notebooks.git
+    ```
 
-The code examples in this repository rely on several Python libraries, including NumPy, SciPy, and Matplotlib. You can install them using pip:
+    Replace `your-username` with your actual GitHub username.
 
-Bash
-pip install numpy scipy matplotlib
-ใช้โค้ดอย่างระมัดระวัง
+2. **Install required libraries:**
 
-Open a Jupyter Notebook:
+    The code examples rely on several Python libraries. Install them using pip:
 
-Navigate to the project directory using your terminal and launch a Jupyter Notebook server:
+    ```bash
+    pip install numpy scipy matplotlib
+    ```
 
-Bash
-cd think-python-jupyter-notebooks
-jupyter notebook
-ใช้โค้ดอย่างระมัดระวัง
+3. **Open a Jupyter Notebook:**
 
-This will open a web interface where you can browse and execute the Jupyter notebooks.
+    Navigate to the project directory and launch a Jupyter Notebook server:
+
+    ```bash
+    cd think-python-jupyter-notebooks
+    jupyter notebook
+    ```
+
+    This will open a web interface where you can browse and execute the Jupyter notebooks.
 
 We hope this repository provides a valuable resource for learning Python programming using Jupyter notebooks!
+
+## Contributing
+
+Feel free to contribute to this repository by submitting issues or pull requests. Your feedback and contributions are welcome!
+
+## License
+
+The content in this repository is licensed under the [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/).
+
+---
+
+
