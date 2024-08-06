@@ -69,8 +69,6 @@ To get started with the Jupyter Notebooks, follow these steps:
 
     This will open a web interface where you can browse and execute the Jupyter notebooks.
 
-We hope this repository provides a valuable resource for learning Python programming using Jupyter notebooks!
-
 ## Source Material
 
 This repository contains Jupyter Notebook versions of the textbook:
@@ -100,6 +98,8 @@ Feel free to contribute to this repository by submitting issues or pull requests
 ## License
 
 The content in this repository is based on the original material and is licensed under the [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/).
+
+We hope this repository provides a valuable resource for learning Python programming using Jupyter notebooks!
 ---
 
 
