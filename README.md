@@ -1,17 +1,5 @@
 # Think Python: Jupyter Notebook Edition
 
-## Source Material
-
-This repository contains Jupyter Notebook versions of the textbook:
-
-**Think Python: How to Think Like a Computer Scientist, 2nd Edition, Version 2.2.23**  
-by Allen Downey (Copyright © 2015)  
-[PDF Version](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
-
-## License
-
-The content in this repository is based on the original material and is licensed under the [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/).
-
 ## About the Book
 
 "Think Python" is a comprehensive introduction to programming using the Python language. It is designed for beginners and gradually introduces more complex topics such as recursion and object-oriented programming in a digestible manner. The book is widely used in universities and is effective for teaching programming fundamentals.
@@ -83,6 +71,14 @@ To get started with the Jupyter Notebooks, follow these steps:
 
 We hope this repository provides a valuable resource for learning Python programming using Jupyter notebooks!
 
+## Source Material
+
+This repository contains Jupyter Notebook versions of the textbook:
+
+**Think Python: How to Think Like a Computer Scientist, 2nd Edition, Version 2.2.23**  
+by Allen Downey (Copyright © 2015)  
+[PDF Version](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+
 ## Screenshots
 
 ![The Python Standard Library](./image.png)
@@ -100,10 +96,10 @@ For any inquiries or issues, please contact me.!
 
 Feel free to contribute to this repository by submitting issues or pull requests. Your feedback and contributions are welcome!
 
+
 ## License
 
-The content in this repository is licensed under the [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/).
-
+The content in this repository is based on the original material and is licensed under the [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc/3.0/).
 ---
 
 
