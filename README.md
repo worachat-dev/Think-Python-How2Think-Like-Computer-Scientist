@@ -57,7 +57,7 @@ To get started with the Jupyter Notebooks, follow these steps:
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/your-username/think-python-jupyter-notebooks.git
+    git clone https://github.com/worachat-dev/Think-Python-How2Think-Like-Computer-Scientist.git
     ```
 
     Replace `your-username` with your actual GitHub username.
@@ -75,13 +75,26 @@ To get started with the Jupyter Notebooks, follow these steps:
     Navigate to the project directory and launch a Jupyter Notebook server:
 
     ```bash
-    cd think-python-jupyter-notebooks
+    cd Think-Python-How2Think-Like-Computer-Scientist
     jupyter notebook
     ```
 
     This will open a web interface where you can browse and execute the Jupyter notebooks.
 
 We hope this repository provides a valuable resource for learning Python programming using Jupyter notebooks!
+
+## Screenshots
+
+![The Python Standard Library](./image.png)
+
+## Contact
+
+For any inquiries or issues, please contact me.!
+
+## Author
+
+- **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024* 
+[LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
 
 ## Contributing
 
